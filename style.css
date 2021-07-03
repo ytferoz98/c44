@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+background-color:rgb(128,128,128);
+display:flex;
+justify-content: space-between
+}
+body{
+    background-color:#000000
+    
+    ;
+}
